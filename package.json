@@ -1,0 +1,24 @@
+{
+  "name": "hbase-nodejs-client-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyale/hbase-nodejs-client-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyale/hbase-nodejs-client-api/issues"
+  },
+  "homepage": "https://github.com/eyale/hbase-nodejs-client-api#readme",
+  "dependencies": {
+    "hbase-client": "^1.6.1",
+    "hbase-rpc-client": "^0.1.15"
+  }
+}
